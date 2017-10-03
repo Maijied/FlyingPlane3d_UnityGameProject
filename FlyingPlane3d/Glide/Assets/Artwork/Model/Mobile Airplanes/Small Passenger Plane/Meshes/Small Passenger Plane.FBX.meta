@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 99417731671a033479ac85cbe0d51321
+timeCreated: 1455881278
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cessna_Body
+    100004: Cessna_ControlSurface_L
+    100006: Cessna_ControlSurface_R
+    100008: Cessna_Front_wheel
+    100010: CEssna_Left_wheel
+    100012: Cessna_Propeller
+    100014: Cessna_Right_wheel
+    100016: Cessna_TailWing_L
+    100018: Cessna_TailWing_R
+    100020: Cessna_WheelStruts
+    100022: Cessna_Wings
+    400000: //RootNode
+    400002: Cessna_Body
+    400004: Cessna_ControlSurface_L
+    400006: Cessna_ControlSurface_R
+    400008: Cessna_Front_wheel
+    400010: CEssna_Left_wheel
+    400012: Cessna_Propeller
+    400014: Cessna_Right_wheel
+    400016: Cessna_TailWing_L
+    400018: Cessna_TailWing_R
+    400020: Cessna_WheelStruts
+    400022: Cessna_Wings
+    2300000: Cessna_Body
+    2300002: Cessna_ControlSurface_L
+    2300004: Cessna_ControlSurface_R
+    2300006: Cessna_Front_wheel
+    2300008: CEssna_Left_wheel
+    2300010: Cessna_Propeller
+    2300012: Cessna_Right_wheel
+    2300014: Cessna_TailWing_L
+    2300016: Cessna_TailWing_R
+    2300018: Cessna_WheelStruts
+    2300020: Cessna_Wings
+    3300000: Cessna_Body
+    3300002: Cessna_ControlSurface_L
+    3300004: Cessna_ControlSurface_R
+    3300006: Cessna_Front_wheel
+    3300008: CEssna_Left_wheel
+    3300010: Cessna_Propeller
+    3300012: Cessna_Right_wheel
+    3300014: Cessna_TailWing_L
+    3300016: Cessna_TailWing_R
+    3300018: Cessna_WheelStruts
+    3300020: Cessna_Wings
+    4300000: Cessna_Front_wheel
+    4300002: CEssna_Left_wheel
+    4300004: Cessna_ControlSurface_L
+    4300006: Cessna_WheelStruts
+    4300008: Cessna_ControlSurface_R
+    4300010: Cessna_TailWing_L
+    4300012: Cessna_Right_wheel
+    4300014: Cessna_TailWing_R
+    4300016: Cessna_Propeller
+    4300018: Cessna_Wings
+    4300020: Cessna_Body
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
